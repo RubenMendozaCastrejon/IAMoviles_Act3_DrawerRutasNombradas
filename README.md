@@ -15,8 +15,7 @@ Elaboralo para ser probado y ejecutado en un solo archivo, aunque las intruccion
 <img width="1226" height="793" alt="image" src="https://github.com/user-attachments/assets/7f30b4c0-fed9-4ce9-96ad-f6cdf33a8329" />
 <img width="481" height="795" alt="image" src="https://github.com/user-attachments/assets/d3f825e5-3795-4c2f-80f8-9ba315a49dab" />
 
-<img width="985" height="790" alt="image" src="https://github.com/user-attachments/assets/dc14fa57-6390-4d55-80cd-ca50f9f78961" />
-<img width="471" height="799" alt="image" src="https://github.com/user-attachments/assets/57e7720e-512e-4fad-9d1e-25bdffb3cf39" />
+<img width="473" height="791" alt="image" src="https://github.com/user-attachments/assets/03e5fb7b-dd2b-4eb2-9f6a-629a1b50bf7d" />
 
 <img width="1225" height="787" alt="image" src="https://github.com/user-attachments/assets/fcb03554-c11a-4a9f-adda-91d2c001997e" />
 <img width="474" height="788" alt="image" src="https://github.com/user-attachments/assets/517552ab-9653-430e-a088-22ee6a6b0011" />
