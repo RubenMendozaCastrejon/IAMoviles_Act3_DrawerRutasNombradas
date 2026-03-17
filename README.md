@@ -1,16 +1,12 @@
-# myapp
+## Prompt
+Voy a hacer en lenguaje dart flutter, una pagina con 4 opciones. Hare uso de un drawer para abrir cada una de las 4 paginas correspondientes, que contendran una imagen.
+Drawer ( con 4 opciones):
+- Encabezado: imagen avatar del negocio (con imagen generica relacionada, desde la red), nombre (Investech), dirección, teléfono, correo (Inventa estos 3 ultimos)
+- Listile: icono, texto y acción para abrir  pagina según opción de listile, (Empresas, Criptomonedas, ETF y Divisas. Todos estos archivos se llamaran como están (ejemplo Empresas.dart) nombradas + el .dart)
 
-A new Flutter project.
+- En cada pagina una imagen centrada de 200x200 desde la red (con imagen generica relacionada, desde la red)
+- Utilizar rutas nombradas para navegar entre paginas desde el drawer (rutas nombradas)
+- Todos los archivos estaran contenidos en lib/LasPaginas/
+Elaboralo para ser probado y ejecutado en un solo archivo, aunque las intrucciones digan que uses archivos distintos pls.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas
